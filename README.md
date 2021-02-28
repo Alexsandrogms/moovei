@@ -1,34 +1,53 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<p align="center">
+  <img src="./public/logo.svg" width="400" />
+</p>
 
-## Getting Started
+<div align="center">
 
-First, run the development server:
+  <a href="https://www.linkedin.com/in/alexsandrogomes/">
+    <img alt="Alexsandro Gomes" src="https://img.shields.io/badge/-Alexsandro Gomes-000?style=flat&logo=Linkedin&logoColor=5965e0" />
+  </a>
+
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-5965e0">
+</div>
+
+<br>
+
+I moovei using pomodoro technique where every x minutes you perform one of our challenges in order to help you during your work / study days.
+
+<br>
+
+## Building
+
+You'll need [Node.js](https://nodejs.org) installed on your computer in order to build this app.
+
+Access your preferred terminal, perform the steps below to start the application.
 
 ```bash
-npm run dev
-# or
-yarn dev
+# Repository
+git clone https://github.com/Alexsandrogms/moovei.git
+
+# Directory
+$ cd moovei/
+
+# Install Dependencies
+$ yarn install # or npm install
+
+# Run application
+$ yarn start # npm start
+
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Author
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+😎 Alexsandro Gomes Paiva
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+- Github: [@alexsandrogms](https://github.com/Alexsandrogms)
+- Linkedin: [@alexsandrogms](https://linkedin.com/in/alexsandrogomes)
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+## Contribuindo
 
-## Learn More
+Contributions, problems and requests for new features are welcome!
+Did you like the project? Take a ⭐️!
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+This project is under the MIT license. Read morea 📗 [LICENÇA](https://github.com/Alexsandrogms/moovei/blob/master/LICENSE) for details.<br>
