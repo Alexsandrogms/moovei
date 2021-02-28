@@ -5,11 +5,15 @@ export default class MyDocument extends Document {
     return (
       <Html>
         <Head>
-          <link rel="shortcut icon" href="favicon.png" type="image/x-icon"/>
+          <link rel="shortcut icon" href="favicon.png" type="image/x-icon" />
           <link rel="preconnect" href="https://fonts.gstatic.com" />
           <link
             href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Rajdhani:wght@600&display=swap"
             rel="stylesheet"
+          />
+          <meta
+            name="description"
+            content="I moovei using pomodoro technique where every x minutes you perform one of our challenges in order to help you during your work / study days"
           />
         </Head>
         <body>
